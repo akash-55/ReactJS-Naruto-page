@@ -6,7 +6,7 @@ export default function Main(){
     
       <div className="main-container">
         <h3>About</h3>
-        <p> Shinobi of the Village Hidden in the Leaves. Son of the fourth hokage. Nine tails Jinchuriki. </p>
+        <p> Shinobi of the Village Hidden in the Leafs. Son of the fourth hokage. Nine tails Jinchuriki. </p>
         <br />
         <h3>Interest</h3>
         <p>Ichiraku ramen, 
